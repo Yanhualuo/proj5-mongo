@@ -16,6 +16,7 @@ The "Display" button would display the entries from the database
 - Python3
 
 run command:
+
 docker-compose build
 
 docker-compsoe up
