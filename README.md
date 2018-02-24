@@ -1,6 +1,7 @@
 # Project 5: Brevet time calculator with Ajax and MongoDB
 ---------------------------------------------
 Author: Yanhua Luo
+
 Contact: yanhual@uoregon.edu
 
 ## Introduction
