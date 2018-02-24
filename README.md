@@ -6,7 +6,9 @@ Contact: yanhual@uoregon.edu
 
 ## Introduction
 Simple list of controle times from project 4 stored in MongoDB database.
+
 The "Submit" button would insert the entered control times into the database
+
 The "Display" button would display the entries from the database
 
 ## Requirement/Installation
@@ -15,6 +17,7 @@ The "Display" button would display the entries from the database
 
 run command:
 docker-compose build
+
 docker-compsoe up
 
 
